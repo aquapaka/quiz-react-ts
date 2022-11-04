@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/quiz-react-ts/static/js/main.c38b32b9.js",
+    "static/js/787.1ebb9342.chunk.js": "/quiz-react-ts/static/js/787.1ebb9342.chunk.js",
+    "static/media/leaves_green_plant_3840x2400.jpg": "/quiz-react-ts/static/media/leaves_green_plant_3840x2400.61e902079e29a29c6505.jpg",
+    "index.html": "/quiz-react-ts/index.html",
+    "main.c38b32b9.js.map": "/quiz-react-ts/static/js/main.c38b32b9.js.map",
+    "787.1ebb9342.chunk.js.map": "/quiz-react-ts/static/js/787.1ebb9342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c38b32b9.js"
+  ]
+}
